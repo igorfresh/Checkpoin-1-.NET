@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVCCheckpoint1.props" />
+</Project>

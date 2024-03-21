@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-MVCCheckpoint1",
+      "appliesTo": "MVCCheckpoint1/",
+      "type": "launch"
+    }
+  ]
+}

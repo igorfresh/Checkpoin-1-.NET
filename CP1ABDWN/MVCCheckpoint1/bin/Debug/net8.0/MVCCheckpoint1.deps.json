@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MVCCheckpoint1/1.0.0": {
+        "runtime": {
+          "MVCCheckpoint1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MVCCheckpoint1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

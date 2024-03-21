@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MVCCheckpoint1",
+    "\\MVCCheckpoint1\\Controllers",
+    "\\MVCCheckpoint1\\Models",
+    "\\MVCCheckpoint1\\Views",
+    "\\MVCCheckpoint1\\Views\\Controller1",
+    "\\MVCCheckpoint1\\Views\\Controller2",
+    "\\MVCCheckpoint1\\Views\\Controller3"
+  ],
+  "SelectedNode": "\\MVCCheckpoint1\\Views\\Controller3\\Index.cshtml",
+  "PreviewInSolutionExplorer": false
+}
